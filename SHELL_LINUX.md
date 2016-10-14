@@ -7,14 +7,20 @@ zsh or fish will provide much more than standart Bash.
 
 http://www.zsh.org/
 
-Following OH-MY-ZSH
+Following installing [OH-MY-ZSH](https://github.com/robbyrussell/oh-my-zsh)
 
-Following
 
-'''
+To replace your shell 
+
+```
 sudo chsh -s $(which zsh)
-'''
+```
 
+or if it doesn't work for you - you can try edit directrly 
+
+```sudo nano /etc/passwd ```
+
+file
 
 
 ### Numero dos
